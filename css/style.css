@@ -1,0 +1,11 @@
+.container{
+    margin-bottom: 10px;
+    height: 100px;
+    background-color:rgb(126, 115, 11);
+}
+.col div{
+    margin-top: 30px;
+    padding-bottom: 20px;
+    background-color:coral;
+    text-align: center;
+}
